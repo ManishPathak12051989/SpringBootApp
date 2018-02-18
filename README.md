@@ -21,7 +21,7 @@ spring.datasource.password=<password>
 GET
 localhost:7070/students/fetch
 
-#Sample Post Response 
+#Sample Post Request
 POST
 localhost:7070/students/
 {
@@ -32,7 +32,7 @@ localhost:7070/students/
 	
 }
 
-#Sample Put response
+#Sample Put Request
 PUT
 localhost:7070/students/
 {

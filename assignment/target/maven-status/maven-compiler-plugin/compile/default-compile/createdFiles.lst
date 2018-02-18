@@ -1,5 +1,0 @@
-com\techv\entity\StudentEntity.class
-com\techv\dao\IStudentRepositary.class
-com\techv\main\Main.class
-com\techv\controller\StudentController.class
-com\techv\service\StudentService.class
